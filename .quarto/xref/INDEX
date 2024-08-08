@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "77a9d72f"
+  },
+  "index.qmd": {
+    "index.html": "c7b1ca4c"
+  },
+  "Projects.qmd": {
+    "Projects.html": "ec287078"
+  },
+  "workshops.qmd": {
+    "workshops.html": "234b558c"
+  },
+  "education.qmd": {
+    "education.html": "080bd9c4"
+  },
+  "techstack.qmd": {
+    "techstack.html": "87b52ef4"
+  },
+  "soft.qmd": {
+    "soft.html": "a68f8007"
+  },
+  "achieve.qmd": {
+    "achieve.html": "54c819a5"
+  }
+}

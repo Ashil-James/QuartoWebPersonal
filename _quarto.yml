@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About me
+      - href: education.qmd
+        text: Education
+      - href: workshops.qmd
+        text: Workshops
+      - href: Projects.qmd
+        text: Projects
+      - href: techstack.qmd
+        text: Technical Skills
+      - href: soft.qmd
+        text: SoftSkills
+      - href: achieve.qmd
+        text: Achievements
+
+  sidebar:
+    style: "docked"
+    logo: "Ashnewpic.jpg"
+    search: true
+    collapse-level: 2
+    contents:
+      - icon: github
+        text: Github
+        url: https://github.com/Ashil-James
+      - icon: twitter
+        text: Twitter
+        url: https://twitter.com
+      - icon: instagram
+        text: Instagram
+        url: https://www.instagram.com/ashil_james14/   
+      - icon: linkedin
+      - text: "LinkedIn"
+        url: https://www.linkedin.com/in/ashil-george-james/
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+
