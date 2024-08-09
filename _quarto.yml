@@ -27,6 +27,9 @@ website:
     search: true
     collapse-level: 2
     contents:
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/ashil-george-james/
       - icon: github
         text: Github
         url: https://github.com/Ashil-James
@@ -38,10 +41,6 @@ website:
       - icon: instagram
         text: Instagram
         url: https://www.instagram.com/ashil_james14/
-      
-      - icon: linkedIn
-        text: "linkedin"
-        url: https://www.linkedin.com/in/ashil-george-james/
 
 format:
   html:
