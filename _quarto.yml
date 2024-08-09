@@ -30,14 +30,17 @@ website:
       - icon: github
         text: Github
         url: https://github.com/Ashil-James
+
       - icon: twitter
         text: Twitter
         url: https://twitter.com
+
       - icon: instagram
         text: Instagram
-        url: https://www.instagram.com/ashil_james14/   
-      - icon: linkedin
-      - text: "LinkedIn"
+        url: https://www.instagram.com/ashil_james14/
+      
+      - icon: linkedIn
+        text: "linkedin"
         url: https://www.linkedin.com/in/ashil-george-james/
 
 format:
